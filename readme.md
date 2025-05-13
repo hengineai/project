@@ -149,7 +149,7 @@ We believe in open systems, fast execution, and degenerate optimism — backed b
 ## 📡 Join the Movement
 
 - [Follow us on Twitter](https://twitter.com/HengineAI)  
-- [Contribute to the Repo](https://github.com/hypeengine/project)  
+- [Contribute to the Repo](https://github.com/hengineai/project)  
 
 ---
 
