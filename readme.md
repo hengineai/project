@@ -70,7 +70,7 @@ Combining:
 
 ### 📊 Real-Time Sentiment Analysis
 
-![Sentiment Spike Graph](https://fakeimg.pl/900x300/?text=Sentiment+Graph&font=lobster)
+![Sentiment Spike Graph](/graf.png)
 
 - Yellow = Twitter  
 - Blue = Telegram  
