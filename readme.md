@@ -106,7 +106,7 @@ JSON-defined weighted scoring system (v1.3.4) using:
 
 Currently embedded within:
 
-- [Photon](https://photon.fi)  
+- [Photon](https://photon-sol.tinyastro.io/)  
 - [BullX Terminal](https://bullx.io)  
 - ATOM DEX (pending release)
 
@@ -117,7 +117,7 @@ Tokens flagged by HYPE ENGINE AI are shown with **🔥 HYPE SCORE** indicators i
 ## 📦 Installation (Dev Mode)
 
 ```bash
-git clone https://github.com/hypeengine/ai
+git clone https://github.com/hengineai/project
 cd ai
 pnpm install
 pnpm dev
