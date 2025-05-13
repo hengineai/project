@@ -1,0 +1,20 @@
+{
+  "version": "1.3.4",
+  "weights": {
+    "social_mentions": 0.25,
+    "wallet_activity": 0.35,
+    "sentiment_velocity": 0.20,
+    "token_age": 0.10,
+    "github_web_mentions": 0.10
+  },
+  "thresholds": {
+    "high_hype": 85,
+    "moderate_hype": 70,
+    "low_hype": 50
+  },
+  "labels": {
+    "danger_zone": "Volatile",
+    "safe_zone": "Stable",
+    "unknown": "Insufficient data"
+  }
+}
